@@ -11,6 +11,14 @@ textarea {
     color: #fff;
 }
 
+textarea {
+    color: black;
+}
+
+input {
+    color: black;
+}
+
 body {
     background-color: black;
 }
